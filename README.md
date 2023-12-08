@@ -11,3 +11,9 @@ ss help
 ss create block
 
 ss verify block
+
+# Troubleshooting
+
+I developed this prototype on the Windows Ubuntu WSL Subsystem
+
+https://docs.google.com/spreadsheets/d/1qfBeYJHq29zpu7QhXuauyD6RJv5jrktMFQYdIr3WcFA/edit?usp=sharing
