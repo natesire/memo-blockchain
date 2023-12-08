@@ -12,6 +12,10 @@ ss create block
 
 ss verify block
 
+# Plans for Concurrency
+
+We will explore using CGO, as in C with Go, to call Golang from Python through C language in order to leverage Golang's awesome CSP (communicating sequential processes) concurrency model. This will drastically speed up our block=chain processing throughput by vertical scaling on one super computer. One Node location will be able to utilize all of their CPU cores to data crypto mine. Think of your computer as the centralized piece of the blockchain which improves performance beyond a strictly decentralized traditional block-chain like Bitcoin. The person with the largest super computer in one geographic location will lead in mining and solving scientific problems. This also discourages botnets and hackers from stealing cloud services to do mining since this is geo-location based.
+
 # Development Environment
 
 Python 3.8
