@@ -12,6 +12,10 @@ ss create block
 
 ss verify block
 
+# Development Environment
+
+Python 3.8
+
 # Troubleshooting
 
 I developed this prototype on the Windows Ubuntu WSL Subsystem
